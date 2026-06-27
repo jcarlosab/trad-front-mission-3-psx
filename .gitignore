@@ -1,0 +1,46 @@
+# Archivos grandes del juego original
+*.bin
+*.cue
+*.7z
+*.iso
+layout
+proceso_traduccion
+
+# Herramientas de terceros
+apps/
+
+# ROM
+rom/
+
+# Archivos extraídos del juego
+juego_extraido/
+
+# Builds finales
+*_ES.bin
+*_ES.cue
+
+# Archivos temporales
+textos_extraidos_copia/
+*.tmp
+*.bak
+*~
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
