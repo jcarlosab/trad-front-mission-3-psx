@@ -3,8 +3,8 @@
 *.cue
 *.7z
 *.iso
-layout
-proceso_traduccion
+layout.xml
+proceso_traduccion.md
 
 # Herramientas de terceros
 apps/
@@ -23,6 +23,7 @@ juego_extraido/
 textos_extraidos_copia/
 *.tmp
 *.bak
+*.bat
 *~
 
 # IDE y editores
